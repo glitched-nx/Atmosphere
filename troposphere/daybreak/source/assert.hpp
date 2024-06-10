@@ -21,4 +21,3 @@
     if (!static_cast<bool>(expr)) { \
         std::abort();               \
     }
-    
